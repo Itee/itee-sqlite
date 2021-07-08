@@ -44,7 +44,7 @@ class TSQLiteDatabase extends TAbstractDatabase {
             stmt.finalize()
 
             db.each( 'SELECT rowid AS id, info FROM lorem', function ( err, row ) {
-                console.log( row.id + ': ' + row.info )
+                this.logger.log( row.id + ': ' + row.info )
             } )
         } )
 
