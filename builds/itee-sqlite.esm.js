@@ -1,4 +1,4 @@
-console.log('Itee.Database.SQLite v1.0.2 - EsModule')
+console.log('Itee.Database.SQLite v1.0.3 - EsModule')
 import * as SQLiteDriver from 'sqlite3';
 import { TAbstractDatabase } from 'itee-database';
 
