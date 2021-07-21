@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/Itee/itee-sqlite/compare/v1.0.2...v1.0.3) (2021-07-21)
+
+
+### Bug Fixes
+
+* **readme:** add simple readme content ([120543e](https://github.com/Itee/itee-sqlite/commit/120543e0256d26beda8c5a1ab8008fd5f4a57a4e))
+
 ## [1.0.2](https://github.com/Itee/itee-sqlite/compare/v1.0.1...v1.0.2) (2021-07-08)
 
 
